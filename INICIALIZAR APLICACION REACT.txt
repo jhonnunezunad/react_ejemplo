@@ -1,0 +1,21 @@
+1. Abrir el terminal desde vscode (ctrl + ñ)
+
+2. Ubicarse en la carpeta 
+
+3. Crear proyecto react
+
+//npx create-react-app nombre-de-aplicacion-react
+
+ejemplo:
+
+npx create-react-app Aplicacion-react
+
+4. Ubicarse en la carpeta creada mediante:
+
+cd Aplicacion-react
+
+5. inicializar el proyecto mediante (En la ubicacion de la carpeta anterior)
+
+npm start
+
+
